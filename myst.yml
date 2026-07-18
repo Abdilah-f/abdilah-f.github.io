@@ -1,0 +1,23 @@
+version: 1
+project:
+  title: Abdilah Fauzi - Computational Chemistry & ML
+  description: Academic homepage of Abdilah Fauzi, PhD researcher at Imperial College London
+  authors:
+    - name: Abdilah Fauzi
+  github: https://github.com/Abdilah-f
+  keywords:
+    - computational chemistry
+    - machine learning
+    - MOFs
+    - DFT
+    - ORCA
+site:
+  template: book-theme
+  title: Abdilah Fauzi
+  nav:
+    - title: Home
+      url: /
+    - title: ML for Chemistry
+      url: https://abdilah-f.github.io/learning_ML
+    - title: GitHub
+      url: https://github.com/Abdilah-f
