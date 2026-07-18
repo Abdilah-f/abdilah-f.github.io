@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  BASE_URL: https://abdilah-f.github.io
+  BASE_URL: ''
 
 jobs:
   deploy:
